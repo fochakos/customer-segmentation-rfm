@@ -1,0 +1,37 @@
+{
+  "k": 4,
+  "backtest": {
+    "snapshot": "2010-12-10",
+    "customers": 4210,
+    "bought_again_overall": 0.6353919239904988,
+    "eta2_named_segments": 0.2712811203982676,
+    "eta2_kmeans": 0.28177436948791346,
+    "eta2_full_rfm_code": 0.3579747255644368,
+    "n_rfm_codes": 90
+  },
+  "current": {
+    "snapshot": "2011-12-10",
+    "customers": 4245,
+    "total_spend": 7968120.05,
+    "top20pct_share_of_spend": 0.7351390695977279,
+    "one_order_share": 0.3531213191990577,
+    "uk_share": 0.9043580683156655,
+    "median_spend": 646.3,
+    "silhouette": {
+      "2": 0.431,
+      "3": 0.339,
+      "4": 0.333,
+      "5": 0.32,
+      "6": 0.313,
+      "7": 0.309,
+      "8": 0.305
+    },
+    "kmeans_ari_across_10_seeds_min": 0.9749373276731751,
+    "f_scores_present": [
+      1,
+      3,
+      4,
+      5
+    ]
+  }
+}

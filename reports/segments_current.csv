@@ -1,0 +1,11 @@
+segment,customers,median_recency_days,median_orders,median_spend,total_spend,share_customers,share_spend,action
+Champions,673,5.0,7.0,2319.68,4077724.77,0.1585394581861013,0.5117549364733781,"Reward and protect: early access, loyalty perks, ask for referrals. No discounts needed."
+Loyal,890,30.0,5.0,1519.7350000000001,2227999.03,0.20965842167255594,0.27961413934771223,Upsell and cross-sell; invite to the loyalty programme.
+Potential loyalists,268,17.0,2.0,502.09000000000003,172807.28,0.06313309776207303,0.021687333890005836,"Push the next order: bundles, free-shipping threshold, membership offer."
+New customers,72,8.0,1.0,227.245,23620.05,0.01696113074204947,0.002964319042858798,Onboarding series and a second-order incentive within 30 days.
+Promising,179,24.0,1.0,223.85,53992.96,0.04216725559481743,0.006776122807035268,Introduce best-sellers; small time-limited offer to build the habit.
+Need attention,173,51.0,2.0,599.9,123297.62,0.04075382803297998,0.015473865758335304,Personalised recommendations based on past orders; limited-time offer.
+About to sleep,292,52.0,1.0,288.59,113180.71,0.06878680800942286,0.01420419236780952,Reactivation email with popular items; low-cost incentive.
+Can't lose,52,100.5,7.0,2602.275,149616.36000000002,0.012249705535924617,0.01877687071243361,Personal outreach from an account manager; win-back offer. Highest-value lapsed customers.
+At risk,690,129.5,2.0,666.5150000000001,678269.99,0.1625441696113074,0.08512296322643884,Win-back campaign with a meaningful offer; survey why they stopped.
+Hibernating,956,216.0,1.0,249.85500000000002,347611.28,0.22520612485276797,0.04362525637399251,Low-cost automated reminders only; drop from paid channels if no response.

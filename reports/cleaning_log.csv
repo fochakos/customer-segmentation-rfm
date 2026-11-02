@@ -1,0 +1,5 @@
+step,rows,rows_removed,net_sales_gbp
+Raw rows,1067371,,19287251
+Remove exact duplicates,1033036,34335.0,18855534
+Remove lines without a customer ID,797885,235151.0,16289991
+Remove non-product lines and zero prices,794183,3702.0,16358593

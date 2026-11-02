@@ -1,0 +1,11 @@
+{
+  "lines": 794183,
+  "customers": 5875,
+  "invoices": 43877,
+  "first_ts": "2009-12-01 07:45:00",
+  "last_ts": "2011-12-09 12:50:00",
+  "cancel_lines": 17587.0,
+  "net_sales": 16358593.0,
+  "duplicates_in_overlap_week": 22844,
+  "duplicates_elsewhere": 11491
+}
