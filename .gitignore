@@ -1,0 +1,14 @@
+# Raw data and intermediate files (download from Kaggle; see README)
+data/*.csv
+data/*.parquet
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
